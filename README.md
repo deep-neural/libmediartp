@@ -6,7 +6,7 @@
 </h1>
 <h4 align="center">A pure C/C++ implementation for building media streams and RTP packet processing</h4>
 <p align="center">
-    <a href="https://libmediartp.example"><img src="https://img.shields.io/badge/libmediartp-C/C++-blue.svg?longCache=true" alt="libmediartp" /></a>
+    <a href="https://github.com/deep-neural/libmediartp"><img src="https://img.shields.io/badge/libmediartp-C/C++-blue.svg?longCache=true" alt="libmediartp" /></a>
   <a href="https://datatracker.ietf.org/doc/html/rfc3550"><img src="https://img.shields.io/static/v1?label=RFC&message=3550&color=brightgreen" /></a>
   <a href="https://datatracker.ietf.org/doc/html/rfc3551"><img src="https://img.shields.io/static/v1?label=RFC&message=3551&color=brightgreen" /></a>
   <a href="https://datatracker.ietf.org/doc/html/rfc4585"><img src="https://img.shields.io/static/v1?label=RFC&message=4585&color=brightgreen" /></a>
