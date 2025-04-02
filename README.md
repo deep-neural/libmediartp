@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://libmediartp.example"><img src="./.github/logo.jpg" alt="libmediartp" height="150px"></a>
+  <a href="https://github.com/deep-neural/libmediartp"><img src="./.github/logo.jpg" alt="libmediartp" height="150px"></a>
   <br>
   libMediaRTP
   <br>
@@ -12,7 +12,7 @@
   <a href="https://datatracker.ietf.org/doc/html/rfc4585"><img src="https://img.shields.io/static/v1?label=RFC&message=4585&color=brightgreen" /></a>
   <a href="https://datatracker.ietf.org/doc/html/rfc5761"><img src="https://img.shields.io/static/v1?label=RFC&message=5761&color=brightgreen" /></a>
   <br>
-    <a href="https://github.com/cloud-v2/libmediartp"><img src="https://img.shields.io/static/v1?label=Build&message=Documentation&color=brightgreen" /></a>
+    <a href="https://github.com/deep-neural/libmediartp"><img src="https://img.shields.io/static/v1?label=Build&message=Documentation&color=brightgreen" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg" alt="License: MIT" /></a>
 </p>
 <br>
